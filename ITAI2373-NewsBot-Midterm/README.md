@@ -114,12 +114,6 @@ One possible explanation is that the short samples contained only a title and a 
 - Review named entity recognition and sentiment outputs for errors.
 - Explore ways to make the system easier to use.
 
-## Running the Project
-
-This project was developed in **Google Colab / Jupyter Notebook**. To run it, open the project notebook in the corresponding environment and execute the cells in order. Make sure the required Python libraries and any dataset files referenced by the notebook are available.
-
-> **Note:** Exact notebook filenames, dataset paths, and dependency versions should be added here once the repository files are finalized.
-
 ## Project Status
 
 **Course project completed.** Further improvements and testing are possible.
