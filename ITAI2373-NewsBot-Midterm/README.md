@@ -123,7 +123,3 @@ This project was developed in **Google Colab / Jupyter Notebook**. To run it, op
 ## Project Status
 
 **Course project completed.** Further improvements and testing are possible.
-
-## Author's Reflection
-
-This project helped me understand how text preprocessing, machine learning, sentiment analysis, and named entity recognition can work together. I learned that an NLP system can process information quickly, but its predictions are not always correct. I believe AI should assist people rather than replace human judgment.
